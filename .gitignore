@@ -253,4 +253,7 @@ webdrivers/
 # Node.js dependency directories
 node_modules/
 
+# Webdriver screenshots
+screen.png
+
 # End of https://www.gitignore.io/api/python,pycharm,pycharm+all,pycharm+iml
